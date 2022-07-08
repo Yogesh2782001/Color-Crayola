@@ -1,2 +1,2 @@
 # Color-Crayola
-Color Crayola game using tkinter in Python
+<img src="Screenshot (16)">
