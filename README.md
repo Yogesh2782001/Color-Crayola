@@ -1,2 +1,2 @@
 # Color-Crayola
-<img src="Screenshot(16)">
+<img src="Screenshot (16)">
